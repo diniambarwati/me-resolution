@@ -10,5 +10,5 @@ Feature: Login
         And I direct to new window Sign In page
         And I input admin username and password sa portal
         Then I can see SA-Portal Dashboard page
-        And I can operate systemssdfafasfasdf
+        And I can operate systemsyyy
 
